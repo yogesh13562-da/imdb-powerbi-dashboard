@@ -1,35 +1,58 @@
 # 🎬 IMDb Movie Analysis Dashboard (Power BI)
 
-This project is an interactive Power BI dashboard built using the IMDb Top 1000 dataset sourced from Kaggle.
+## 📌 Overview
+This project is an interactive Power BI dashboard built using the IMDb Top 1000 dataset sourced from Kaggle.  
+It provides insights into movie performance, ratings, revenue trends, and genre distribution.
 
-## 📊 Project Overview
-The dashboard provides insights into:
-- Movie performance
-- Revenue trends
-- Genre distribution
-- Ratings and audience engagement
+---
 
-## 🔧 Tools & Technologies
-- Power BI
-- DAX
-- Power Query
-- Data Modeling
+## 📊 Dashboard Preview
+![Dashboard](assets/dashboard.png)
 
+---
+
+## 🎯 Objectives
+- Analyze movie performance across years  
+- Identify top-performing genres  
+- Understand rating and revenue patterns  
+- Build interactive visualizations  
+
+---
+
+## 🛠️ Tools & Technologies
+- Power BI  
+- DAX  
+- Power Query  
+- Data Modeling  
+
+---
+
+## 📁 Project Structure
+---
 ## 📈 Key Features
-- KPI cards (Total Movies, Avg Rating, Revenue, Votes)
-- Interactive filters (Year, Genre)
-- Revenue trend analysis
-- Genre-wise performance comparison
-- Top movies visualization
+- KPI cards (Movies, Ratings, Revenue, Votes)  
+- Year-based trend analysis  
+- Genre-wise insights  
+- Interactive filters and slicers  
 
-## 📁 Dataset
+---
+
+## 📂 Dataset
 - Source: Kaggle (IMDb Top 1000 Dataset)
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+---
 
-## 🚀 Learnings
-- Data cleaning using Power Query
-- Creating measures using DAX
-- Designing interactive dashboards
-- Improving data storytelling skills
+## 🚀 How to Use
+1. Download the `.pbix` file from the `pbix/` folder  
+2. Open it using Power BI Desktop  
+3. Interact with filters and visuals  
+
+---
+
+## 💡 Learnings
+- Data cleaning using Power Query  
+- Writing DAX measures  
+- Designing interactive dashboards  
+- Improving data storytelling  
+
+---

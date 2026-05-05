@@ -56,3 +56,8 @@ It provides insights into movie performance, ratings, revenue trends, and genre 
 - Improving data storytelling  
 
 ---
+
+## 🌐 Live Dashboard
+
+Explore the interactive dashboard here:  
+👉 [Click to View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDFiYmFiZDEtZTI3OC00ZjlmLTliNGEtNGRiMjAyM2I2NzA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
